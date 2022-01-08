@@ -1,0 +1,1 @@
+Código disponibilizado na aula de Tópicos Especiais do Curso de Ciência da Computação para a Classificação Linear utilizando as bibliotecas sklearn, matplotlib e numpy
